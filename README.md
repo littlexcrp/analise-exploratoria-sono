@@ -1,24 +1,24 @@
-##📊 Análise Exploratória de Dados obre Sono e Estilo de Vida
+# 📊 Análise Exploratória de Dados obre Sono e Estilo de Vida
 
 
-#📖 Sobre o projeto
+## 📖 Sobre o projeto
 
-#🎯 Objetivo
+## 🎯 Objetivo
 
-#📁 Dataset
+## 📁 Dataset
 
-#🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-#🔎 Análise realizada
+## 🔎 Análise realizada
 
-#📈 Principais resultados
+## 📈 Principais resultados
 
-#💡 Principais descobertas
+## 💡 Principais descobertas
 
-#⚠️ Problemas encontrados nos dados
+##⚠️ Problemas encontrados nos dados
 
-#🚀 Como executar
+##🚀 Como executar
 
-#🔮 Possíveis análises futuras
+##🔮 Possíveis análises futuras
 
-#👨‍💻 Autores
+##👨‍💻 Autores
